@@ -1,0 +1,8 @@
+		*** Adding User In Windows through Command Prompt ***
+	STEP1 : Open command prompt as administrator.
+	STEP2 : Run command `net user username /add`,your user is added
+	   *** Change user password ***
+	  Simplly run 'net user username password'
+
+	  *** Delete a user ***
+	  'net user username /delete'  
